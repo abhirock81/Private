@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Personal Info</string>
+<string name="signup"><u>Not Registered? Sign Up</u></string>
+    <string-array name="City">
+        <item>Bhubaneswar</item>
+        <item>Bhilai</item>
+        <item>Mumbai</item>
+    </string-array>
+    <string name="pick_image">Pick An Image</string>
+    <string name="take_photo">Take A Photo</string>
+
+
+</resources>
